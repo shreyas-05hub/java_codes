@@ -1,4 +1,4 @@
-//WAP TO PRINT THE PRODUCT OF 10 NO
+``WAP TO PRINT THE PRODUCT OF 10 NO
 
 class pro{
 	public static void main(String[] s){

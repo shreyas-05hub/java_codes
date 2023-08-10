@@ -1,4 +1,4 @@
-class Demo{
+:w:ws Demo{
 	int x=10;
 	private int y=20;
 	static int z =30;
